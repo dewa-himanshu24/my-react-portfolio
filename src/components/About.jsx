@@ -26,7 +26,7 @@ const About = () => {
           learn more so I started working on Node.js and its web application
           framework express eventually I worked on mongoDb and MySQL with ORM
           like sequelize and Prisma. I always wanted to develop my skill for a fullstack
-          developer which leads me to work with REACT, NEXT JS, TypeScrip, Tailwind, 
+          developer which leads me to work with REACT, NEXT JS, TypeScript, Tailwind, 
           HTML and CSS. I have also know python as I started my journey with python only.
         </p>
 
